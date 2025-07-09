@@ -50,7 +50,7 @@ flutter pub get
 ### 3. Configure Gemini API
 
 - Get your **Gemini API Key** from [Google AI Studio](https://aistudio.google.com/app/apikey).
-- Add your API Key inside `chat_service.dart`:
+- Add your API Key inside `chat.dart`:
 
 ```dart
 const apiKey = 'YOUR_GEMINI_API_KEY';
