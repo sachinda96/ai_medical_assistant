@@ -1,4 +1,4 @@
-# 🌺 Medical Chatbot App (Flutter + Gemini AI)
+# 🩺 Medical Chatbot App (Flutter + Gemini AI)
 
 This is a **Medical Chatbot App** built using **Flutter** and powered by **Gemini AI**. The app allows users to ask **medical-related questions** and receive **AI-generated responses** in real-time.
 
@@ -77,9 +77,6 @@ lib/
 
 ## ⚠️ Disclaimer
 
-This app is for **educational and informational purposes only**.\
-It is **not a replacement for professional medical advice**.\
-Please consult a healthcare professional for any health-related concerns.
-
+This app is for **educational and informational purposes only**.\ It is **not a replacement for professional medical advice**.\ Please consult a healthcare professional for any health-related concerns.
 ---
 
