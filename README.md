@@ -77,6 +77,8 @@ lib/
 
 ## ⚠️ Disclaimer
 
-This app is for **educational and informational purposes only**.\ It is **not a replacement for professional medical advice**.\ Please consult a healthcare professional for any health-related concerns.
+This app is for **educational and informational purposes only**.
+\ It is **not a replacement for professional medical advice**.
+\ Please consult a healthcare professional for any health-related concerns.
 ---
 
