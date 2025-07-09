@@ -37,7 +37,7 @@ This is a **Medical Chatbot App** built using **Flutter** and powered by **Gemin
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/medical-chatbot-flutter.git
+git clone https://github.com/sachinda96/ai_medical_assistant.git
 cd medical-chatbot-flutter
 ```
 
